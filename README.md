@@ -1,5 +1,5 @@
 <h1 align="center">Hey hiii 👋</h1>
-<h3 align="center">A passionate learner.</h3>
+<h3 align="center">Error !!!.</h3>
 https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urstrulyanushesh&label=Profile%20views&color=0e75b6&style=flat" alt="urstrulyanushesh" /> </p>

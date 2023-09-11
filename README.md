@@ -10,7 +10,7 @@ https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif
 
 - 📫 How to reach me **anusheshtharu@gmail.com**
 
-- ⚡ Fun fact **I am unpredictable.**
+- ⚡ Fun fact **I think I am unpredictable.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

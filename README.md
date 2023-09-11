@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anushesh Tharu</h1>
+<h1 align="center">Hey hiii 👋</h1>
 <h3 align="center">A passionate learner.</h3>
 https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif
 

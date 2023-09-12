@@ -1,5 +1,6 @@
 <h1 align="center">Hey hiii 👋</h1>
-<h3 align="center">Error !</h3> https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif
+<h3 align="center">Error !</h3> 
+https://media.tenor.com/rePDfDWO3XoAAAAM/hacking.gif
 
 
 
@@ -11,7 +12,7 @@
 
 - 📫 How to reach me **anusheshtharu@gmail.com**
 
-- ⚡ Fun fact **I think I am unpredictable.**
+- ⚡ Fun fact **Unpredictable.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

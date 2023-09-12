@@ -1,8 +1,5 @@
-https://gifdb.com/images/high/glitching-hacker-hacking-v56g4l1vaykmsno6.gif
 <h1 align="center">Hey hiii 👋</h1>
 <h3 align="center">Error !</h3> 
-
-https://gifdb.com/images/high/glitching-hacker-hacking-v56g4l1vaykmsno6.gif
 
 
 

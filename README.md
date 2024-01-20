@@ -1,5 +1,5 @@
-<h1 align="center">Hey hiii 👋</h1>
-<h3 align="center">Error !</h3> 
+<h1 align="center">Konnichiwa 👋</h1>
+
 
 
 

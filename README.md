@@ -1,4 +1,4 @@
-//<h1 align="center">Konnichiwa 👋</h1>
+<h1 align="center">👋</h1>
 
 
 

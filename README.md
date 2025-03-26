@@ -24,3 +24,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=urstrulyanushesh&show_icons=true&locale=en&layout=compact" alt="urstrulyanushesh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=urstrulyanushesh&show_icons=true&locale=en" alt="urstrulyanushesh" /></p>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###

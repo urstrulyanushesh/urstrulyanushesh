@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urstrulyanushesh&label=Profile%20views&color=0e75b6&style=flat" alt="urstrulyanushesh" /> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **anusheshtharu@gmail.com**
 

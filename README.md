@@ -2,8 +2,8 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-<h1 align="center">Hi 👋, I'm urstrulyanushesh</h1>
-<h3 align="center">A passionate learner from Kathmandu</h3>
+<h1 align="center">Hi 👋</h1>
+<!..<h3 align="center">A passionate learner from Kathmandu</h3>..>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urstrulyanushesh&label=Profile%20views&color=0e75b6&style=flat" alt="urstrulyanushesh" /> </p>
 

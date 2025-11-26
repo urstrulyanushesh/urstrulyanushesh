@@ -5,7 +5,7 @@
 
 ### 🚀 About Me  
 - 🎨 Passionate about **Frontend Development (HTML, CSS, JS, React)**  
-- 💻 5th Semester **BIT Student**  
+- 💻 6th Semester **BIT Student**  
 - 🔐 Exploring **Cybersecurity** & writing secure code  
 - 🌱 Currently learning **React + Tailwind + Git/GitHub**  
 - ⚡ Fun fact: I debug faster with coffee ☕  

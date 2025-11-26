@@ -1,5 +1,5 @@
 
-<h1 align='center">🌑✨ **Hi 👋, I'm Anushesh**</h1>
+<h1 align='center">"🌑✨ **Hi 👋, I'm Anushesh**"</h1>
 <h3 align="center">Frontend Developer | IT Student | Cybersecurity Enthusiast</h3>
 
 ---
@@ -23,11 +23,6 @@
 `VS Code` · `Git` · `GitHub` · `Figma` · `Chrome DevTools`
 
 ---
-
-### 📊 **GitHub Stats**
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=urstrulyanushesh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=urstrulyanushesh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=urstrulyanushesh&theme=dark&hide_border=false)
 
 
 

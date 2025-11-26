@@ -31,9 +31,9 @@
 ---
 
 ### 🌐 Connect with Me  
-<a href="https://www.instagram.com/" target="_blank">Instagram</a> •
-<a href="https://www.linkedin.com/" target="_blank">LinkedIn</a> •
-<a href="mailto:youremail@gmail.com">Email</a>
+<a href="https://www.instagram.com/urstrulyanushesh/?next=%2F">Instagram</a> •
+<a href="https://www.linkedin.com/in/anusheshtharu/">LinkedIn</a> •
+<a href="anusheshtharu@gmail.com">Email</a>
 
 ---
 

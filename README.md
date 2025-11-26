@@ -8,7 +8,8 @@
 - 💻 6th Semester **BIT Student**  
 - 🔐 Exploring **Cybersecurity** & writing secure code  
 - 🌱 Currently learning **React + Tailwind + Git/GitHub**  
-- ⚡ Fun fact: I debug faster with coffee ☕  
+- ⚡ Fun fact: I debug faster with Tuborg
+    
 
 ---
 

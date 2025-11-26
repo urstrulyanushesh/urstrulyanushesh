@@ -22,13 +22,13 @@
 
 ---
 
-### 📂 Projects  
+!---### 📂 Projects  
 - 🔹 **Portfolio Website** – Personal site using HTML, CSS, JS  
 - 🔹 **Registration Form UI** – Clean form with proper validation  
 - 🔹 **Mini Cybersecurity Research** – Kathmandu Valley case study  
 - 🔹 **React Components Practice** – UI components library  
 
----
+---!
 
 ### 🌐 Connect with Me  
 <a href="https://www.instagram.com/urstrulyanushesh/?next=%2F">Instagram</a> •
@@ -37,12 +37,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-![Anushesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=urstrulyanushesh&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=urstrulyanushesh&layout=compact&theme=tokyonight)
-
----
 
 ### ✨ Quote  
 > “Code is like art — the cleaner, the better.”

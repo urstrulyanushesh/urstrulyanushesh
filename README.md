@@ -65,9 +65,8 @@
 
 <div align = "center"> 
 
-![Anushesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=urstrulyanushesh&show_icons=true&theme=tokyonight)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=urstrulyanushesh&layout=compact&theme=tokyonight)
-![Anushesh's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=urstrulyanushesh&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=My%20Contribution%20Graph)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=urstrulyanushesh&theme=github-dark-dimmed&area=true&hide_border=true)
+
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=urstrulyanushesh&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>

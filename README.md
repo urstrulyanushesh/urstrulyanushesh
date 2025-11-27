@@ -22,6 +22,11 @@
 **Tools:**  
 `VS Code` · `Git` · `GitHub` · `Figma` · `Chrome DevTools`
 
+## 📊 GitHub Stats
+<!-- Replace `urstrulyanushesh` below if your GitHub username is different -->
+![Anushesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=urstrulyanushesh&show_icons=true&theme=tokyonight)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=urstrulyanushesh&layout=compact&theme=tokyonight)
+
 ---
 
 

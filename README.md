@@ -26,7 +26,7 @@
 <!-- Replace `urstrulyanushesh` below if your GitHub username is different -->
 ![Anushesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=urstrulyanushesh&show_icons=true&theme=tokyonight)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=urstrulyanushesh&layout=compact&theme=tokyonight)
-![Anushesh's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=urstrulyanushesh&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=My%20Contribution%20Graph)
+![Anushesh's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=urstrulyanushesh&theme=react-dark&hide_border=true&area=true)
 
 
 ---

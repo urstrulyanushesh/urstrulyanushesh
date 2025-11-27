@@ -27,7 +27,7 @@
 ![Anushesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=urstrulyanushesh&show_icons=true&theme=tokyonight)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=urstrulyanushesh&layout=compact&theme=tokyonight)
 ![Anushesh's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=urstrulyanushesh&theme=react-dark&hide_border=true&area=true)
-![Anushesh's Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=urstrulyanushesh&theme=vue)
+
 
 
 
@@ -46,3 +46,7 @@
 
 ### ✨ Quote  
 > “Code is like art — the cleaner, the better.” 🎨💻
+
+## 📌 More GitHub Analytics
+![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/skills?username=urstrulyanushesh&theme=default)
+

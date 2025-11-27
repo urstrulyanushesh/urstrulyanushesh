@@ -27,6 +27,8 @@
 ![Anushesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=urstrulyanushesh&show_icons=true&theme=tokyonight)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=urstrulyanushesh&layout=compact&theme=tokyonight)
 ![Anushesh's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=urstrulyanushesh&theme=react-dark&hide_border=true&area=true)
+![GitHub Activity Radar](https://github-profile-summary-cards.vercel.app/api/cards/skills?username=urstrulyanushesh&theme=default)
+
 
 
 ---

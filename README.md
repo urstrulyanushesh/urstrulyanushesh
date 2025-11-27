@@ -48,10 +48,7 @@
 > “Code is like art — the cleaner, the better.” 🎨💻
 
 ## 🧭 Activity Overview
-![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/skills?username=urstrulyanushesh&theme=solarized)
-![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/skills?username=urstrulyanushesh&theme=solarized_light)
-![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/skills?username=urstrulyanushesh&theme=solarized_light)
-![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/skills?username=urstrulyanushesh&theme=solarized)
+![Activity Radar](https://github-profile-summary-cards.vercel.app/api/cards/skills?username=urstrulyanushesh&background=ffffff&color=3fb950&title_color=3fb950&line_color=3fb950&border_color=d0d7de)
 
 
 

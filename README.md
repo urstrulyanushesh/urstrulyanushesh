@@ -1,4 +1,4 @@
-<img src = "githubanner.JPG"/>
+<img src = "Githubbanner.jpg"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anusheshtharu/" target="_blank">
@@ -66,8 +66,7 @@
 <div align = "center"> 
 
 ![Anushesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=urstrulyanushesh&show_icons=true&theme=tokyonight)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=urstrulyanushesh&layout=compact&theme=tokyonight)
-![Anushesh's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=urstrulyanushesh&theme=react-dark&hide_border=true&area=true)<br/><br/>
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=urstrulyanushesh&layout=compact&theme=tokyonight)<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=urstrulyanushesh&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 

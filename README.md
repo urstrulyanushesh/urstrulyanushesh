@@ -5,16 +5,16 @@
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
    <a href="https://leetcode.com/u/urstrulyanushesh/" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white" />
   </a>
   <a href="https://www.hackerrank.com/profile/anusheshtharu" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
   <a href="https://www.pinterest.com/urstrulyanushesh/_profile/" target="_blank">
     <img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/urstrulyanushesh/?next=%2F" target="_blank">
-    <img src="https://img.shields.io/badge/Chess.com-000000?style=for-the-badge&logo=chessdotcom&logoColor=white" />
+    <img src="https://img.shields.io/badge/instagram.com-000000?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -25,22 +25,24 @@
 
 <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
 <br/>
+<br/>
 
 <p>
   Hello There! <em><b> I'm Anushesh Tharu </b></em>, a B.I.T student. I enjoy learning new technologies and problem solving at LeetCode and HackerRank. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, React, Bootstrap and more.
 </p>
 
+
 <br/>
 
 <p align="center">
-   <img src="/imgs/img3.png" width="15"/>   <em><b> Studying at the KIST College OF IT, Kathmandu, Nepal. </b></em> <br/>
-   <img src="/imgs/img1.png" width="15"/>   <em><b> Frontend Developer  </b></em><br/>
+    <em><b> Studying at the KIST College OF IT, Kathmandu, Nepal. </b></em> <br/>
+    <em><b> Frontend Developer  </b></em><br/>
 </p>
 
 <br/>
 <br/>
 
-<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
+<h2 align="center"> <img src="https://github.com/urstrulyanushesh/urstrulyanushesh/blob/main/Img/title2.png" width="25"/> <em> Technologies </em> </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />

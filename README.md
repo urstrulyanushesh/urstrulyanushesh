@@ -47,7 +47,8 @@
 ### ✨ Quote  
 > “Code is like art — the cleaner, the better.” 🎨💻
 
-## 📌 More GitHub Analytics
-![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/skills?username=urstrulyanushesh&theme=default)
+## 🧭 Activity Overview
+![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/skills?username=urstrulyanushesh&theme=solarized_light)
+
 
 

@@ -1,4 +1,4 @@
-<img src = "[Githubbanner.jpg](https://github.com/urstrulyanushesh/urstrulyanushesh/blob/main/Githubbannerr.jpg)"/>
+<img src = "https://github.com/urstrulyanushesh/urstrulyanushesh/blob/main/Githubbannerr.jpg"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anusheshtharu/" target="_blank">

@@ -14,27 +14,6 @@
 
 ---
 
-### 🛠️ Tech Stack
-
-**Frontend:**  
-`HTML` · `CSS` · `JavaScript` · `Tailwind` · `React` · `Bootstrap`
-
-**Tools:**  
-`VS Code` · `Git` · `GitHub` · `Figma` · `Chrome DevTools`
-
-## 📊 GitHub Stats
-<!-- Replace `urstrulyanushesh` below if your GitHub username is different -->
-![Anushesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=urstrulyanushesh&show_icons=true&theme=tokyonight)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=urstrulyanushesh&layout=compact&theme=tokyonight)
-![Anushesh's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=urstrulyanushesh&theme=react-dark&hide_border=true&area=true)
-
-
-
-
----
-
-
-
 ### 🌐 Connect with Me  
 <!-- Social Media -->
 <h3 align="left">Connect with me:</h3>
@@ -43,14 +22,33 @@
 
 ---
 
+### 🛠️ Tech Stack
+
+**Frontend:**  
+`HTML` · `CSS` · `JavaScript` · `Tailwind` · `React` · `Bootstrap`
+
+**Tools:**  
+`VS Code` · `Git` · `GitHub` · `Figma` · `Chrome DevTools`
+
+
+---
+
+
+## 📊 GitHub Stats
+<!-- Replace `urstrulyanushesh` below if your GitHub username is different -->
+![Anushesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=urstrulyanushesh&show_icons=true&theme=tokyonight)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=urstrulyanushesh&layout=compact&theme=tokyonight)
+![Anushesh's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=urstrulyanushesh&theme=react-dark&hide_border=true&area=true)
+
+
+---
+
+
+
 
 ### ✨ Quote  
 > “Code is like art — the cleaner, the better.” 🎨💻
 
-## 🧭 Activity Overview
-![Activity Radar](https://github-profile-summary-cards.vercel.app/api/cards/skills?username=urstrulyanushesh)
-![Activity Radar](https://github-profile-summary-cards.vercel.app/api/cards/skills?username=urstrulyanushesh&theme=default)
-![Activity Radar](https://github-profile-summary-cards.vercel.app/api/cards/skills?username=urstrulyanushesh&theme=default)
 
 
 

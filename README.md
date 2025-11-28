@@ -67,7 +67,7 @@
 
 <div align = "center"> 
 
-
+![Anushesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=urstrulyanushesh&show_icons=true&theme=tokyonight)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=urstrulyanushesh&layout=compact&theme=tokyonight)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=urstrulyanushesh&theme=github-dark-dimmed&area=true&hide_border=true)
 <br/><br/>

@@ -67,9 +67,9 @@
 
 <div align = "center"> 
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=urstrulyanushesh&theme=tokyonight)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=urstrulyanushesh&layout=compact&theme=tokyonight)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=urstrulyanushesh&theme=github-dark-dimmed&area=true&hide_border=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=urstrulyanushesh&theme=tokyonight)
+
 <br/><br/>
 
 

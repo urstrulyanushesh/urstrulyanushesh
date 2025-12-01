@@ -36,7 +36,7 @@
 
 <p align="center">
     <em><b> Studying at the KIST College OF IT, Kathmandu, Nepal. </b></em> <br/>
-    <em><b> Future Frontend Developer  </b></em><br/>
+    
 </p>
 
 <br/>

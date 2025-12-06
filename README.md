@@ -67,8 +67,10 @@
 
 <div align = "center"> 
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=urstrulyanushesh&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=urstrulyanushesh&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=urstrulyanushesh&layout=compact&theme=tokyonight)
+
+![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=urstrulyanushesh&theme=tokyonight)
+
 
 <br/><br/>
 

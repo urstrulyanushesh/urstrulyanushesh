@@ -45,6 +45,7 @@
 <h2 align="center"> <img src="https://github.com/urstrulyanushesh/urstrulyanushesh/blob/main/Img/title2.png" width="25"/> <em> Technologies </em> </h2>
 
 <p align="center">
+   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />

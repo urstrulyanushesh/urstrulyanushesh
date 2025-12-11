@@ -28,7 +28,7 @@
 <br/>
 
 <p>
-  Hello There! <em><b> I'm Anushesh Tharu </b></em>, a B.I.T student. I enjoy learning new technologies and problem solving at LeetCode and HackerRank. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, React, Bootstrap and more.
+  Hello There! <em><b> I'm Anushesh Tharu </b></em>, a B.I.T student. I enjoy learning new technologies. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, React, Bootstrap and more.
 </p>
 
 

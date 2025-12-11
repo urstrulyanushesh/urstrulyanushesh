@@ -1,4 +1,4 @@
-
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anusheshtharu/" target="_blank">

@@ -35,7 +35,7 @@
 <br/>
 
 <p align="center">
-    <em><b> Studying at the KIST College OF IT, Kathmandu, Nepal. </b></em> <br/>
+    <em><b> Studying at the KIST College oF IT, Kathmandu, Nepal. </b></em> <br/>
     
 </p>
 
